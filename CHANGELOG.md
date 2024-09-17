@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.0.4a1](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-gui-network-client/tree/0.0.4a1) (2024-09-17)
+
+[Full Changelog](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-gui-network-client/compare/0.0.3a4...0.0.4a1)
+
+**Merged pull requests:**
+
+- feat:semver [\#7](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-gui-network-client/pull/7) ([JarbasAl](https://github.com/JarbasAl))
+- feat:semver [\#6](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-gui-network-client/pull/6) ([JarbasAl](https://github.com/JarbasAl))
+
 ## [0.0.3a4](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-gui-network-client/tree/0.0.3a4) (2024-02-17)
 
 [Full Changelog](https://github.com/OpenVoiceOS/ovos-PHAL-plugin-gui-network-client/compare/0.0.3a3...0.0.3a4)
